@@ -1,7 +1,7 @@
 # Nautilus Terminal 3
 
 
-[![Lint / Tests](https://github.com/flozz/nautilus-terminal/workflows/Lint%20and%20Tests/badge.svg)](https://github.com/flozz/nautilus-terminal/actions) [![PYPI Version](https://img.shields.io/pypi/v/nautilus_terminal.svg)](https://pypi.org/project/nautilus_terminal/)  [![Discord](https://img.shields.io/badge/chat-Discord-8c9eff?logo=discord&logoColor=ffffff)](https://discord.gg/P77sWhuSs4)   [![License](https://img.shields.io/pypi/l/nautilus_terminal.svg)](https://github.com/flozz/nautilus-terminal/blob/master/COPYING)
+[![Lint / Tests](https://github.com/flozz/nautilus-terminal/workflows/Lint%20and%20Tests/badge.svg)](https://github.com/flozz/nautilus-terminal/actions) [![PYPI Version](https://img.shields.io/pypi/v/nautilus_terminal.svg)](https://pypi.org/project/nautilus_terminal/)  [![Discord](https://img.shields.io/badge/chat-Discord-8c9eff?logo=discord&logoColor=ffffff)](https://discord.gg/cJ9xFaHc)   [![License](https://img.shields.io/pypi/l/nautilus_terminal.svg)](https://github.com/flozz/nautilus-terminal/blob/master/COPYING)
 
 
 > A terminal embedded in Nautilus, the GNOME’s file browser
